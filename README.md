@@ -2,7 +2,7 @@
 
 * Este proyecto 
 se _encarga_ de manejar los __planes__ de 
-**la liga de la justicia**
+**la liga de** **_la justicia_**
 
 
 ## Notas
