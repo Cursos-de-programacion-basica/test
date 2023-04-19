@@ -7,3 +7,5 @@ se _encarga_ de manejar los __planes__ de
 
 ## Notas
 Pueden hacer lo que quieran...
+
+#### info
